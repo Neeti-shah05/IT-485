@@ -1,13 +1,18 @@
-# IT485Project
-UMass Boston IT 485 Capstone - API Query Project
+**Class: **IT 485 Capstone
+**Project Name:** Pawsome Pets
 
-Pawsome Pets
+**Overview:**
+Pawsome Pets is a collaborative project undertaken as part of the IT 485 Capstone class. Our team, comprising four members including myself, aimed to develop a web application leveraging the capabilities of the Petfinder API.
 
-Webapp using Petfinder's API - created a query page using the filters postal code, state, type, gender, age, size, and sort.
+**Project Details:**
+The core functionality of Pawsome Pets revolves around enabling users to search for adoptable pets within a 100-mile radius of a specified zip code. Our web application offers a user-friendly query interface with filters including postal code, state, type of pet, gender, age, size, and sorting options.
 
-Webapp helps locate local pets within 100 mile radius of zipcode. Types of pets include dogs, cats, rabbit, small & furry, horse, bird, scales fins & other, and barnyard. 
+**Features:**
 
-Information retreived will then show the pets photo, name, gender, age a small portion of their description, if they are good with dogs, cats, and kids. It will show the animals breeds and coat type as well. The final portion of information given to the user is the contact information of the organization that houses the pet. There is a link to the Petfinder website to learn more about the pet/organization.
+_1. Comprehensive Search:_ Users can search for various types of pets including dogs, cats, rabbits, small & furry animals, horses, birds, creatures with scales, fins & others, and barnyard animals.
+_2. Detailed Information: _ Upon querying, the application retrieves information about the pets, including their photo, name, gender, age, a brief description, compatibility with dogs, cats, and children, breeds, coat type, and contact details of the organization housing the pet.
+_3. Seamless Integration:_ The application seamlessly integrates with the Petfinder API, ensuring real-time data retrieval and accuracy.
+_4. API Integration: _ We utilized the Petfinder API to fetch information about adoptable pets. The API provided us with access to a vast database of animals available for adoption, facilitating our mission to connect users with their potential furry companions.
 
-Presentation: http://bit.ly/47M4Oji
-API: https://www.petfinder.com/developers/
+**API Documentation: ** https://www.petfinder.com/developers/
+
